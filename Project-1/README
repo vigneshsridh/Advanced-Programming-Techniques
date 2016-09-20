@@ -1,0 +1,8 @@
+Performs 2D DFT and Inverse DFT computations on input image file Tower.txt
+**************************************************************************
+Utilizes MPI API.
+Compile using make and run using ./runlocal
+Check outputs against after1d.txt, after2d.txt using diff command. 
+
+Course: ECE 6122 Advanced Programming Techniques
+Professor: George Riley
